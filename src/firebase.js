@@ -7,5 +7,5 @@ export const auth = firebase.initializeApp({
     projectId: "chat-4484a",
     storageBucket: "chat-4484a.appspot.com",
     messagingSenderId: "880524584482",
-    appId: "1:880524584482:web:b18b4803ee82d33791cc7b"
+    appId: "1:880524584482:web:1ddff9f7306e3ccc91cc7b"
 }).auth();
